@@ -28,6 +28,11 @@ struct _GREG;
 #import "markdown_peg.h"
 #import "utility_functions.m"
 
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Wunreachable-code"
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Wunused-function"
+
 /**********************************************************************
 
   PEG grammar and parser actions for markdown syntax.
@@ -6065,4 +6070,6 @@ YY_PARSE(void) YY_NAME(parse_free)(GREG *G)
 
 
 /* vim:set ts=4 sw=4: */
+#pragma clang diagnostic pop
+#pragma clang diagnostic pop
 

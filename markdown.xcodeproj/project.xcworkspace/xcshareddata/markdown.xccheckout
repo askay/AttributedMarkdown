@@ -10,29 +10,29 @@
 	<string>markdown</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>9C99079B-D715-49F3-B29A-EB9A80B239AD</key>
-		<string>https://github.com/dreamwieber/AttributedMarkdown.git</string>
+		<key>3ED8592497DB6A564366943C9AAD5A46341B5076</key>
+		<string>https://github.com/askay/AttributedMarkdown.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>markdown.xcodeproj/project.xcworkspace</string>
+	<string>markdown.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>9C99079B-D715-49F3-B29A-EB9A80B239AD</key>
+		<key>3ED8592497DB6A564366943C9AAD5A46341B5076</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/dreamwieber/AttributedMarkdown.git</string>
+	<string>https://github.com/askay/AttributedMarkdown.git</string>
 	<key>IDESourceControlProjectVersion</key>
-	<integer>110</integer>
+	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>9C99079B-D715-49F3-B29A-EB9A80B239AD</string>
+	<string>3ED8592497DB6A564366943C9AAD5A46341B5076</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>9C99079B-D715-49F3-B29A-EB9A80B239AD</string>
+			<string>3ED8592497DB6A564366943C9AAD5A46341B5076</string>
 			<key>IDESourceControlWCCName</key>
 			<string>AttributedMarkdown</string>
 		</dict>
